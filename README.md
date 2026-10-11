@@ -18,6 +18,8 @@ a file from [Releases](https://github.com/openshore-labs/openshore-releases/rele
 The desktop app checks this repo for updates and offers each new version
 itself, so you only download once.
 
-This repo holds installers only. OpenShore's source code is private.
+This repo holds installers only. The source code is at
+[openshore-labs/openshore.code.ai](https://github.com/openshore-labs/openshore.code.ai),
+open source under the Apache License 2.0.
 
 Made by [Open Shore Labs](https://github.com/openshore-labs).
